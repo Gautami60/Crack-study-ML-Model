@@ -28,4 +28,12 @@ End-to-end machine learning pipeline for detecting cracks in nano-silicon partic
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
 
-## 📂 Repo Structure
+## 🚀 Quickstart (Colab)
+1. Open the notebook  
+2. Install deps  
+3. Run preprocessing → training → evaluation → inference
+
+## 🔒 License
+MIT License
+EOF
+
